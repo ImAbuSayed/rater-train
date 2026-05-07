@@ -10,10 +10,10 @@
 |-------|---------|
 | Title | Rater Train |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | May 07, 2026 |
+| Lyric Writing Date | May 05, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/rater-train/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [Apply for Music License: Rater Train](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [Obtain a Music License for Rater Train](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
