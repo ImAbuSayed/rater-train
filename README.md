@@ -13,14 +13,17 @@
 | Lyric Writing Date | May 07, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/rater-train/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [Get a Licensing Quote for Rater Train](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [Apply for Music License: Rater Train](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> রাতের এই ট্রেন ছুটে যায় অচিন সীমানায়
+> ভেতরের মাতাল আগুন শুধু তোমাকেই চায়
+> শীতল বাতাস বলে যায় কানে কানে আজ
+> খুলে দাও প্রেমের ওই লুকানো সব লাজ
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
